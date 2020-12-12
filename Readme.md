@@ -1,4 +1,4 @@
-Analyzing Airbnb Listings
+## Analyzing Airbnb Listings
 
 Airbnb has been the go-to application for tourists in the past few years. Within the last 11 years, it has grown meterolically and has grown from nothing to a 30 billion dollar firm (whew!). Eleven years on, Airbnb’s site lists more than six million rooms, flats and houses in more than 81,000 cities across the globe. On average, two million people rest their heads in an Airbnb property each night – half a billion since 2008. Last year, Forbes estimated the business to be worth 31 billion dollars (double whew!).
 
